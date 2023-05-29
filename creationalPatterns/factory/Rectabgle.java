@@ -1,4 +1,4 @@
-package creationalPatterns.factoryPattern;
+package creationalPatterns.factory;
 
 public class Rectabgle implements Shape{
 
